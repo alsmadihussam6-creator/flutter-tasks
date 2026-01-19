@@ -227,5 +227,8 @@ class Department
     }
     return null;
   }
+  void doNothing(){
+    print ("what the hell");
+  }
 }
 
